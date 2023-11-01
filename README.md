@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @katarina-evolution
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning how to make Sudoku game
-- 💞️ I’m looking to collaborate on Java cloud apps
+- 👀 I’m interested in Java & Kotlin
+- 🌱 I’m currently learning how to make mobile application
+- 💞️ I’m looking to collaborate on Kotlin apps
 - 📫 How to reach me katarinakovacova100@gmail.com
 
 <!---
