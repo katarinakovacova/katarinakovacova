@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @katarina-evolution
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning how to make backend of sudoku application
+- 👋 Hi, I’m @katarinakovacova
+- 👀 I’m interested in backend web development in Python
+- 🌱 I’m currently learning Cloud and DevOps
 - 💞️ I’m looking to collaborate on Python apps
 - 📫 How to reach me katarinakovacova100@gmail.com
 
