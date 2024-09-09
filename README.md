@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @katarinakovacova
 - 👀 I’m interested in Java software development
-- 🌱 I’m currently learning Cloud
-- 💞️ I’m looking to collaborate on Java apps
+- 🌱 I’m currently learning Kotlin and Cloud
+- 💞️ I’m looking to collaborate on Java and Kotlin apps
 - 📫 How to reach me katarinakovacova100@gmail.com
 
 <!---
