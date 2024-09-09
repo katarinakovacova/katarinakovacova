@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @katarinakovacova
-- 👀 I’m interested in backend web development in Python
-- 🌱 I’m currently learning Cloud and DevOps
-- 💞️ I’m looking to collaborate on Python apps
+- 👀 I’m interested in Java software development
+- 🌱 I’m currently learning Cloud
+- 💞️ I’m looking to collaborate on Java apps
 - 📫 How to reach me katarinakovacova100@gmail.com
 
 <!---
