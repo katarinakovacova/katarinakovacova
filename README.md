@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @katarinakovacova
-- 👀 I’m interested in Java and Python backend software development
-- 🌱 I’m currently learning Kotlin and Cloud engineering
-- 💞️ I’m looking to collaborate on Java and Kotlin apps
+- 👀 I’m interested in backend software development
+- 🌱 I’m currently software engineer 
+- 💞️ I’m looking to collaborate on Python and Kotlin apps
 - 📫 How to reach me katarinakovacova100@gmail.com and phelela.com
 
 <!---
