@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Katarína Kováčová (@katarinakovacova)
-- 👀 My specialty is backend software development
+- 👀 My specialty is backend and Andoid software development
 - 🌱 Sudoku is my favourite logical game
 - 📫 You can reach me at katarinakovacova100@gmail.com or visit my website at [phelela.com](https://phelela.com)
 
